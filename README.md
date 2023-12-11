@@ -28,6 +28,7 @@ Exploratory Variables: `sqft_living`, `grade`, `bathrooms`, `bedrooms`, and `yr_
     1.4 Reduce redundant data and perform need-based discretization
 
 2. Data Analysis and Visualization
+
     2.1 Identify categorical, ordinal, and numerical variables within the data
 
     2.2 Provide measures of centrality and distribution with visualizations
@@ -37,6 +38,7 @@ Exploratory Variables: `sqft_living`, `grade`, `bathrooms`, `bedrooms`, and `yr_
     2.4 Perform exploratory analysis in combination with visualization techniques to discover patterns and features of interest
 
 3. Data Analytics
+
     3.1 Supervised Learning Using Linear Regression Model
 
     3.2 Train, test, and provide accuracy and evaluation metrics for model results
